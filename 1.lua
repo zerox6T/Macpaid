@@ -1024,7 +1024,7 @@ function EnemyCounterLoop()
     end
 
     if _G.MOD_Watermark_Enabled then
-        text = text .. "\n✦ REAL DEV ADITYA ORG ✦"
+        text = text .. "\n✦ REAL DEV CONFIG_MACTER_vip ✦"
     end
 
     if text ~= "" then
